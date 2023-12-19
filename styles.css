@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.bcolor{
+	color:purple
+}
+.image{
+	height:200px;
+}
+a{
+	 font-size: 20px;
+}
+.a1{
+	 font-size: 20px;
+	color:purple;
+}
+.para{
+	color:blue;
+	text-decoration:underline;
+}
+.para1{
+	color:purple;
+	text-decoration:underline;
+}
