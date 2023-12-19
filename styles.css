@@ -20,16 +20,5 @@ a{
 	color:purple;
 	text-decoration:underline;
 }
- .marquee-container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh; /* Adjust the height as needed */
-            overflow: hidden; /* Prevent overflow content from appearing outside the container */
-        }
 
-.marquee-text {
-            font-size: 24px; /* Adjust the font size as needed */
-            color: black; /* Adjust the text color as needed */
-            white-space: nowrap; /* Prevent text from wrapping */
-        }
+
